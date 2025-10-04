@@ -4,7 +4,7 @@ Career Navigator Pro is a professional web application for career guidance and p
 Setup Instructions
 1. Clone the repository
 bash
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/Suprajacheekatla/Streamlit_career_app>
 cd <YOUR_PROJECT_FOLDER>
 2. Install dependencies
 bash
@@ -83,4 +83,5 @@ Profile images are stored in profile_avatars/. Make sure your system has appropr
 
 About
 This project is designed for academic/learning purposes and streamlines the development cycle for feature-rich Streamlit web applications. For any further improvements or issues, please open a Pull Request or Issue in the repository.
+
 
